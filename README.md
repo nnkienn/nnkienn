@@ -1,4 +1,5 @@
 # 👋 Hi, I'm nnkienn  
+> Backend Developer | Java Spring Boot · Microservices · Redis · RabbitMQ · Docker  
 
 👀 I’m interested in backend development, system design, and real-time applications.  
 🌱 A passionate developer focused on building scalable and distributed systems.  
@@ -10,7 +11,7 @@
 ---
 
 ## 🧠 About Me
-I'm a graduate from the **University of Science – VNUHCM**, majoring in **Software Technology**.  
+I'm a graduate from the **University of Science (VNUHCM – HCMUS)**, majoring in **Software Technology**.  
 I have hands-on experience in building **microservice-based backend systems** using **Spring Boot**, **NestJS**, and **FastAPI**.  
 I've developed distributed services integrating **RabbitMQ**, **Redis**, **MySQL**, and **PostgreSQL**,  
 focusing on scalability, real-time communication, and AI-powered features.  
