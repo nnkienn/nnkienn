@@ -26,8 +26,9 @@ Currently seeking opportunities to grow as a **Fullstack Developer** specializin
 ---
 
 ## 💻 Tech Stack
-**Backend:** Spring Boot · NestJS · Laravel · FastAPI  
-**Frontend:** React · Next.js · Redux Toolkit · TailwindCSS  
+**Backend:** Spring Boot · NestJS · Laravel   
+**Frontend:** React · Next.js · Redux Toolkit · TailwindCSS
+**CRM:** Python Odoo  
 **Database:** PostgreSQL · MySQL · MongoDB · Redis  
 **Message Brokers:** RabbitMQ · Kafka  
 **DevOps:** Docker · Kubernetes · AWS  
